@@ -4,7 +4,7 @@ TIL
     - CS 개념 정리: https://handsome-umbrella-c52.notion.site/CS-5f76d5a2f0e44b53aa08ed8040a913a0?pvs=4
 
 Programming_Language
-- Python: Baekjoon, Programmers 코드 업로드
+- Python: 개념 & Baekjoon, Programmers 코드 업로드
 
 Machine_Learning
-- 머신러닝 개념 & 코드 정리
+- 머신러닝 개념 & 코드 업로드
